@@ -12,7 +12,7 @@ class arreglo
 		
 		for(int i=0;i<x.length;i++)
 		{
-				System.out.println("Ingrese numero");
+				System.out.println("Ingrese algo que parezca numero");
 				x[i]=sc.nextInt();
 				
 			if(i==0)
@@ -31,6 +31,6 @@ class arreglo
 		}
 		
 			
-			System.out.println("Numero mayor es: "+m);
+			System.out.println("El Numero mayor es: "+m + " :D ");
 	}
 }
